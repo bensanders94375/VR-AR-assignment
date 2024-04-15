@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+<Tracking>
+<ModelTarget name="mountainexport" motionHint="static" trackingMode="car" optimizeTrackingFor="low_feature_objects"/>
+
+</Tracking>
+
+<Assembly name="mountainexports_assembly" assemblyId="080d340ff96345d698987cd28e748b58">
+<Part name="mountainexport" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0000" translation="5.4932 0.616752 60.6844" rotation="AD: 0.997415 0.174563 -0.485233 215.444" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARConfig>

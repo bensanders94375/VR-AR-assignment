@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARInfo>
+<TargetSet version="27.0" toolVersion="10.22.5">
+<ModelTarget name="mountainexport" targetId="eb487517fe2949469628027329845e38" version="14.0" toolVersion="10.22.5" bbox="-6.946890 -1.496089 -9.184374 14.872670 1.894100 16.930275" previewImage="eb487517fe2949469628027329845e38_preview.jpg"/>
+
+</TargetSet>
+
+<Assembly name="mountainexports_assembly" assemblyId="080d340ff96345d698987cd28e748b58">
+<Part name="mountainexport" translation="0 0 0" rotation="AD: 0 0 1 0"/>
+<EntryPoint name="GuideView_0000" translation="5.4932 0.616752 60.6844" rotation="AD: 0.997415 0.174563 -0.485233 215.444" image="mountainexport_GuideView_0000.png" trained="no">
+
+</EntryPoint>
+
+</Assembly>
+
+</QCARInfo>
